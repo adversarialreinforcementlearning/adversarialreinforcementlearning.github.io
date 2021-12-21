@@ -1,5 +1,4 @@
 <div align="center">
-  ## Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs
   Ezgi Korkmaz
 </div>
 
