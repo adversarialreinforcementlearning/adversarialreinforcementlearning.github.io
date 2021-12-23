@@ -2,6 +2,9 @@
   Ezgi Korkmaz
 </div>
 
+<div align="center">
+ AAAI Conference on Artificial Intelligence 2022
+</div>
 
 
 ### Abstract
