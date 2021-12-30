@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- AAAI Conference on Artificial Intelligence 2022
+ AAAI Conference on Artificial Intelligence 2022 <br />
  Published in AAAI Press 2022
 </div>
 
