@@ -27,4 +27,4 @@ The use of deep neural networks as function approximators has led to striking pr
 <br />
 
 
-*See more papers on the robustness and vulnerabilities of deep reinforcement learning policies here [[PMLR]](https://robustdeepreinforcementlearning.github.io/)
+*See more papers on the robustness and vulnerabilities of deep reinforcement learning policies here [[PMLR]](uai.md)
