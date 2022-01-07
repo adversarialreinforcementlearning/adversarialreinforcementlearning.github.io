@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Investigating Vulnerabilities of Deep Neural Policies
-permalink: /UAI/
 ---
 
 <head>
